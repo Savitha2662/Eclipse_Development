@@ -18,7 +18,7 @@ Author:SAVITHA.K
 
 8.Adding Profile picture function codes.
 
-9.Adding Attachemt location
+9.Adding Attachemt location.
 It would be great if Your application having the sharing locations. Kindly add this features.
 `void vovels() {
 String name="ChithRAmaNIkalimuthu";

@@ -17,3 +17,19 @@ Author:SAVITHA.K
 7.Adding audio and video calls code
 
 8.Adding Profile picture function codes.
+
+9.Adding Attachemt location
+It would be great if Your application having the sharing locations. Kindly add this features.
+`void vovels() {
+String name="ChithRAmaNIkalimuthu";
+name=name.toLowerCase();
+int count=0;
+for(int i=0;i<name.length();i++) {
+char countings=name.charAt(i);
+if(countings=='a' || countings=='e' || countings=='i' || countings=='o' || countings=='u') {
+count++;
+}
+}
+System.out.println(count);
+
+}
